@@ -1,4 +1,4 @@
-# pension_api
+# HRIS graphql api
 
 To install dependencies:
 
